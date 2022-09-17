@@ -37,6 +37,7 @@ body {
 }
 .section {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 .visually-hidden {
   position: absolute;
@@ -189,7 +190,6 @@ body {
 /* Наша команда секція */
 .our-team {
   background-color: var(--background-color-light);
-  padding-bottom: 94px;
 }
 .our-team .title {
   color: var(--title-text-color);
@@ -258,9 +258,6 @@ body {
   color: var(--color-white);
 }
 /* Портфоліо приклади робіт */
-.our-works {
-  padding-bottom: 94px;
-}
 .filter {
   display: flex;
   justify-content: center;
